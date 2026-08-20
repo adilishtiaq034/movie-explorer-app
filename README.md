@@ -1,6 +1,6 @@
 #  Movie App
 
-A modern movie discovery application built with React that has user friendly interface and allows users to browse, search, and explore movies using a real-time movie database API.
+A modern movie discovery application built with React.js that has user friendly interface and allows users to browse, search, and explore movies using a real-time movie database API.
 
 ## Live Demo
 
